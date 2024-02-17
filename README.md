@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Arian Sefat</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> A passionate frontend developer from Iran<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h3>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 - 🌱 I’m currently learning **React.js & Next.js**
 
